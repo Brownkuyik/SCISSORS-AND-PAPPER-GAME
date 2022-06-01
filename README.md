@@ -1,2 +1,2 @@
 # SCISSORS-AND-PAPPER-GAME
-for learning and to keep to tract
+for learning from the online class
